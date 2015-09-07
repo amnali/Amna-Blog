@@ -1,0 +1,6 @@
+[Mon Sep 07 23:13:20.134771 2015] [authz_core:error] [pid 6804:tid 1900] [client ::1:61357] AH01630: client denied by server configuration: E:/Workspace/PHP/Amna_Blog/public/
+[Mon Sep 07 23:13:20.823583 2015] [authz_core:error] [pid 6804:tid 1900] [client ::1:61357] AH01630: client denied by server configuration: E:/Workspace/PHP/Amna_Blog/public/favicon.ico, referer: http://amnablog.loc/
+[Mon Sep 07 23:15:45.602006 2015] [authz_core:error] [pid 1436:tid 1852] [client ::1:61402] AH01630: client denied by server configuration: E:/Workspace/PHP/Amna_Blog/public/
+[Mon Sep 07 23:15:45.854014 2015] [authz_core:error] [pid 1436:tid 1852] [client ::1:61402] AH01630: client denied by server configuration: E:/Workspace/PHP/Amna_Blog/public/favicon.ico, referer: http://amnablog.loc/
+[Mon Sep 07 23:16:15.072552 2015] [authz_core:error] [pid 7616:tid 1848] [client 127.0.0.1:61405] AH01630: client denied by server configuration: E:/Workspace/PHP/Amna_Blog/public/
+[Mon Sep 07 23:16:15.336560 2015] [authz_core:error] [pid 7616:tid 1848] [client 127.0.0.1:61405] AH01630: client denied by server configuration: E:/Workspace/PHP/Amna_Blog/public/favicon.ico, referer: http://amnablog.loc/
