@@ -21,7 +21,7 @@
             
         </header>
         <div class="main_content">
-            <p>Put your contents here </p>
+            <p>Contents Go here</p>
         </div>
         <div class="right_content">
             <p>Put your contents here</p>
