@@ -12,7 +12,7 @@
 <body>
 
 <div class="wrapper">
-    <div class="pageName">
+    <div class="signUpPage">
         <header id="pageHeader">
             <a href="index.php" class="main_logo"><img src="images/blog_logo.png"></a>
             <h1 class="slogan">Solutions for a small planet</h1>
